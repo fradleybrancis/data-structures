@@ -3,10 +3,12 @@ var Queue = function() {
 
   // Use an object with numeric keys to store values
   var storage = {};
+  var newArr = [];
 
   // Implement the methods below
 
   someInstance.enqueue = function(value) {
+    
   };
 
   someInstance.dequeue = function() {
